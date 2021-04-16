@@ -13,6 +13,8 @@ cs231n/classifiers/linear_svm.py
 cs231n/classifiers/softmax.py
 cs231n/classifiers/neural_net.py"
 
+#test2
+
 LOCAL_DIR=`pwd`
 REMOTE_DIR="cs231n-2019-assignment1"
 ASSIGNMENT_NO=1
