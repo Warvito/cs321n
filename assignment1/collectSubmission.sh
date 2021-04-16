@@ -5,7 +5,7 @@ svm.ipynb
 softmax.ipynb 
 two_layer_net.ipynb 
 features.ipynb"
-
+# changes
 CODE="cs231n/classifiers/k_nearest_neighbor.py
 cs231n/classifiers/linear_classifier.py
 cs231n/classifiers/linear_svm.py
